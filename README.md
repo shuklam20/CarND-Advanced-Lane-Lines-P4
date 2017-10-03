@@ -103,7 +103,7 @@ I implemented this step in code cell 16 of my iPython notebook. Here I warped ba
 
 Video is a collection of images, and therefore most of my image pipeline was easily available for obtaining the lane lines on the video. I did, however, make one thing different - I didn't use the sliding window method again. After frame 1 of the video, I knew where the lines are! In the next frame of video, I didn't need to do a blind search again, but instead just search in a margin around the previous line position. 
 
-Here's a [link to my video result](./test_videos_output/ProjectVideoOutputV2.mp4)
+Here's a [link to my video result](./test_videos_output/ProjectVideoOutput.mp4)
 
 ---
 
