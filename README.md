@@ -4,6 +4,9 @@
 Overview
 ---
 
+![Alt Text](./Project.gif)
+
+
 In this project, I used Computer Vision and Open-CV image analysis techniques to detect lane lines on 3 video streams. The goals / steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
