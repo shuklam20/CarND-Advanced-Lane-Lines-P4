@@ -98,7 +98,7 @@ I transferred pixels to meters by multiplying my x and y parameters with meters-
 #### 6. Final Image warped back
 
 I implemented this step in code cell 16 of my iPython notebook. Here I warped back the polynomial graph I obtained in the previous image on the original image. The final image is shown below:
-<img src="./output_images/finalOutputImages.jpg">
+<img src="./output_images/finalOutputImage.jpg">
 
 ---
 
